@@ -8,5 +8,5 @@
                  [commons-logging/commons-logging "1.1.3"]
                  [io.netty/netty "3.6.1.Final"]
                  [org.slf4j/slf4j-api "1.6.4"]]
-  :java-source-paths ["vendor/github/mreiferson/TrendrrNSQClient/src/main/java"
+  :java-source-paths ["vendor/github/gregspurrier/TrendrrNSQClient/src/main/java"
                       "vendor/github/trendrr/java-oss-lib/src/main/java"])
