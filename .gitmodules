@@ -1,0 +1,6 @@
+[submodule "vendor/github/trendrr/java-oss-lib"]
+	path = vendor/github/trendrr/java-oss-lib
+	url = git@github.com:trendrr/java-oss-lib.git
+[submodule "vendor/github/mreiferson/TrendrrNSQClient"]
+	path = vendor/github/mreiferson/TrendrrNSQClient
+	url = git@github.com:mreiferson/TrendrrNSQClient.git
