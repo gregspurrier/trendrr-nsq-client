@@ -1,6 +1,6 @@
 (defproject org.clojars.gregspurrier/trendrr-nsq-client "1.2.0-SNAPSHOT"
   :description "Prebuilt JARs for TrendrrNSQClient and its dependency trendrr-oss"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/gregspurrier/trendrr-nsq-client"
   :license {:name "MIT"}
   :dependencies [[ch.qos.logback/logback-classic "1.0.13"]
                  [ch.qos.logback/logback-core "1.0.13"]
