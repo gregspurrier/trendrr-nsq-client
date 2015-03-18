@@ -6,15 +6,14 @@ https://github.com/trendrr/java-oss-lib[trendrr-oss]. As far as I know, neither 
 artifacts to a public repository. This project fills the gap for Clojure users by building their JARs and
 deploying them to http://cloars.org[Clojars].
 
-The versioning of trendrr-nsq-client mirrors that of TrendrrNSQClient. The current version is
-1.2.0-SNAPSHOT and can be included as a Leiningen dependency with:
+This project is versioned independently of TrenderNSQClient and trendrr-oss.
 
 NOTE: TrendrrNSQClient is currently being pulled from my https://github.com/gregspurrier/TrendrrNSQClient[fork]
 in order to pick up a fix for a deadlock on client close.
 
 [source,clojure]
 ----
-[org.clojars.gregspurrier/trendrr-nsq-client "1.2.0-SNAPSHOT"]
+[org.clojars.gregspurrier/trendrr-nsq-client "2.0.0"]
 ----
 
 Licenses
