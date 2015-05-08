@@ -4,3 +4,6 @@
 [submodule "vendor/github/gregspurrier/TrendrrNSQClient"]
 	path = vendor/github/gregspurrier/TrendrrNSQClient
 	url = git@github.com:gregspurrier/TrendrrNSQClient.git
+[submodule "vendor/github/mreiferson/TrendrrNSQClient"]
+	path = vendor/github/mreiferson/TrendrrNSQClient
+	url = https://github.com/nsqio/TrendrrNSQClient.git
