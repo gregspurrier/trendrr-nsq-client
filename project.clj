@@ -1,4 +1,4 @@
-(defproject org.clojars.gregspurrier/trendrr-nsq-client "2.0.4-SNAPSHOT"
+(defproject org.clojars.gregspurrier/trendrr-nsq-client "2.0.5-SNAPSHOT"
   :description "Prebuilt JARs for TrendrrNSQClient and its dependency trendrr-oss"
   :url "https://github.com/gregspurrier/trendrr-nsq-client"
   :license {:name "MIT"}
